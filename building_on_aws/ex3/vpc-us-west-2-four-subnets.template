@@ -17,7 +17,8 @@
             "Key": "Name",
             "Value": "aws-vpc"
           }
-        ]
+        ],
+        "EnablesDnsHostnames": "true"
       }
     },
     "InternetGateway": {
